@@ -33,14 +33,14 @@
 
 ### Frontend  
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="35"/></a>
+<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="35"/></a>
+<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="35"/></a>
+<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="35"/></a>
+<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/jquery.png" height="35"/></a>
+<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="35"/></a>
+<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="35"/></a>
+<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="35"/></a>
 </div>
 
 </td>
@@ -49,16 +49,16 @@
 
 ### Backend  
 <div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="35"/></a>
+<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="35"/></a>
+<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="35"/></a>
+<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="35"/></a>
+<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="35"/></a>
+<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="35"/></a>
+<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="35"/></a>
+<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="35"/></a>
+<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" height="35"/></a>
+<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="35"/></a>
 </div>
 
 </td>
