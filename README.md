@@ -1,5 +1,5 @@
 
-<img  alt="Coding"  src="https://www.pinterest.com/ideas/your-name-gif-wallpaper/932623017948/">
+<img  alt="Coding"  src="https://i.pinimg.com/originals/5e/b2/0f/5eb20ff24a1fb31dfd8ad398620bd377.gif">
 
 
 <h1 align="center">Hi 👋, I'm Pranav Rasal</h1>
