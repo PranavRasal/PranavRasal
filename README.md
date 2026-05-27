@@ -25,40 +25,44 @@
 <a href="https://www.leetcode.com/pavan4142" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg](https://leetcode.com/u/PranavRasal19/)" alt="Pranav" height="30" width="40" /></a>
 </p>
 
-## My Skill Set  
+## My Skill Set
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
-### Frontend  
-<div align="center">  
-<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="35"/></a>
-<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="35"/></a>
-<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="35"/></a>
-<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="35"/></a>
-<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/jquery.png" height="35"/></a>
-<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="35"/></a>
-<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="35"/></a>
-<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="35"/></a>
+### Frontend
+<div align="center">
+
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="45"/>
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="45"/>
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="45"/>
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="45"/>
+<img src="https://profilinator.rishav.dev/skills-assets/jquery.png" height="45"/>
+<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="45"/>
+<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="45"/>
+<img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="45"/>
+
 </div>
 
 </td>
 
 <td valign="top" width="50%">
 
-### Backend  
-<div align="center">  
-<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="35"/></a>
-<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="35"/></a>
-<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="35"/></a>
-<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="35"/></a>
-<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="35"/></a>
-<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="35"/></a>
-<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="35"/></a>
-<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="35"/></a>
-<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" height="35"/></a>
-<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="35"/></a>
+### Backend
+<div align="center">
+
+<img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="45"/>
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="45"/>
+<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="45"/>
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="45"/>
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="45"/>
+<img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="45"/>
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="45"/>
+<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="45"/>
+<img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" height="45"/>
+<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="45"/>
+
 </div>
 
 </td>
