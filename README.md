@@ -15,7 +15,7 @@
 <style>
   .content-align {
     display: flex;
-    align-items: center;
+   
     justify-content: space-between;
     gap: 20px;
   }
@@ -23,6 +23,7 @@
   .text {
     flex: 1;
     font-size: 16px;
+     align-items: left;
     line-height: 1.6;
   }
 
@@ -30,5 +31,6 @@
     width: 250px;  
     height: auto;
     border-radius: 10px;
+     align-items: right;
   }
 </style>
