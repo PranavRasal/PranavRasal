@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pavan-0228&label=Profile%20views&color=0e75b6&style=flat" alt="Pavan0228" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PranavRasal&label=Profile%20views&color=0e75b6&style=flat" alt="Pavan0228" /> </p>
 
 
 -   🌱 I’m currently learning *Data Structures & Algorithms*
@@ -23,9 +23,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/pavan-rasal-320123326" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/pranav-rasal-395a6a363/)" alt="Pranav rasal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pavan4142" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg](https://leetcode.com/u/PranavRasal19/)" alt="Pranav" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/pranav-rasal-395a6a363/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pranav rasal" height="30" width="40" /></a>
+
+<a href="https://leetcode.com/u/PranavRasal19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Pranav" height="30" width="40" /></a>
+</p
 
 ## My Skill Set
 
