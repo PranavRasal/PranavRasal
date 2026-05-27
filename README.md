@@ -1,4 +1,5 @@
-![MasterHead]https://www.pinterest.com/ideas/your-name-gif-wallpaper/932623017948/
+
+<img  alt="Coding"  src="https://www.pinterest.com/ideas/your-name-gif-wallpaper/932623017948/">
 
 
 <h1 align="center">Hi 👋, I'm Pranav Rasal</h1>
