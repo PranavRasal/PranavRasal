@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Rasal</h1>
 <h3 align="center">Turning Ideas into Scalable Solutions | JavaScript Aficionado | Always Learning</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5e/b2/0f/5eb20ff24a1fb31dfd8ad398620bd377.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pavan-0228&label=Profile%20views&color=0e75b6&style=flat" alt="Pavan0228" /> </p>
