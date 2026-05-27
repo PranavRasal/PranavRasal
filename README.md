@@ -1,5 +1,5 @@
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/e3c44122-3c3c-4660-918d-1345083a41f8" />
 
-<img  alt="Coding"  src="https://i.pinimg.com/originals/5e/b2/0f/5eb20ff24a1fb31dfd8ad398620bd377.gif">
 
 
 <h1 align="center">Hi 👋, I'm Pranav Rasal</h1>
