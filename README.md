@@ -14,7 +14,7 @@
 
 -   🌱 I’m currently learning *Data Structures & Algorithms*
 
--   💬 Ask me about **DSA , react , Nodejs , Javascript**
+-   💬 Ask me about **DSA , React , Nodejs , Javascript**
 
 -   📫 How to reach me **pranavrasal19@gmail.com**
 
