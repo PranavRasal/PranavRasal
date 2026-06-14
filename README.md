@@ -3,29 +3,29 @@
 
 
 
-<h1 align="center"> Hi 👋, I'm Pranav Rasal</h1>
-<h3 align="center">Turning Ideas into Scalable Solutions | JavaScript Aficionado | Always Learning</h3>
+<h1 align="center">Hi 👋, I’m Pranav Rasal</h1>
+<h3 align="center">Software Engineer | JavaScript & Web Application Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PranavRasal&label=Profile%20views&color=0e75b6&style=flat" alt="Pavan0228" /> </p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
 
 
--   🌱 I’m currently learning *Data Structures & Algorithms*
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PranavRasal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
--   💬 Ask me about **DSA , React , Nodejs , Javascript**
 
--   📫 How to reach me **pranavrasal19@gmail.com**
+- 🌱 Currently strengthening knowledge in Data Structures & Algorithms.
 
--   ⚡ Fun fact **I tend to have full-on conversations with <br> myself—great way to brainstorm or just pass time! 😄**
+- 💬 Experienced with React, Node.js, JavaScript, and scalable web applications.
 
-<h3 align="left">Connect with me:</h3>
+- 📫 Contact: pranavrasal19@gmail.com
+
+- ⚡ I enjoy solving technical challenges through collaborative problem solving.
+
+<h3 align="left">Connect with me</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/pranav-rasal-395a6a363/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pranav rasal" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/PranavRasal19/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Pranav" height="30" width="40" /></a>
-</p
+<a href="https://www.linkedin.com/in/pranav-rasal-395a6a363/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/PranavRasal19/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+</p>
 
 ## My Skill Set
 
