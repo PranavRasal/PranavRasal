@@ -40,7 +40,7 @@
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="55" height="55"/>
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="55" height="55"/>
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="55" height="55"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" width="55" height="55"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" width="55" height="55"/> </br>
   <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" width="55" height="55"/>
   <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" width="55" height="55"/>
   <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" width="55" height="55"/>
@@ -57,12 +57,14 @@
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="55" height="55"/>
   <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" width="55" height="55"/>
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="55" height="55"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="55" height="55"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" width="55" height="55"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="55" height="55"/> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=150&lines=express" width="55" height="55"/>
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="55" height="55"/>
   <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" width="55" height="55"/>
   <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" width="55" height="55"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" width="55" height="55"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" width="55" height="55"/> 
+  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+  
 </p>
 
 </td>
