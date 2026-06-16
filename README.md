@@ -58,7 +58,7 @@
   <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" width="55" height="55"/>
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="55" height="55"/>
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="55" height="55"/> 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=150&lines=express" width="55" height="55"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=150&lines=express" width="55" height="55"/>
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="55" height="55"/>
   <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" width="55" height="55"/>
   <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" width="55" height="55"/>
